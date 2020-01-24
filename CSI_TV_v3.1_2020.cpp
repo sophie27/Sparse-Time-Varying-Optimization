@@ -23,7 +23,6 @@ using namespace Eigen;
 #define MU 1e-6
 #define pi 3.1415926535897932384626433832795028841971
 
-
 double q, SNR, MAE_couple, MAE, TOT_MAE, thresh, thresh_dist,  np, admitted_run_time, auxdista, TAU;
 double alpha0, alpha1, alpha, gap, gap2, fopt, fist, fadmm, fdista, dinreg_ist, dinreg_admm, dinreg_dista, dinreg_ist_theo, dinreg_admm_theo, dinreg_dista_theo;
 int N,M,K,numNodes,v,h,i,j,m,n, k,t, run, num_neighbors, measuresNode;
