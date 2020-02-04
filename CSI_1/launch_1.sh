@@ -39,7 +39,7 @@ done
 
 rm csi.dat
 nohup matlab -nodisplay < merge.m > out.out
-gnuplot plot.gnu
+gnuplot plot_1.gnu
 
 
 T="$(($(date +%s)-T_zero))"
