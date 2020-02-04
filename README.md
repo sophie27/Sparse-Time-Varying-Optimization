@@ -13,5 +13,5 @@ Three experiments:
 C++ code
 Requirements: g++ compiler, Eigen library http://eigen.tuxfamily.org/, Gnuplot
 
-Optional: Matlab to merge files (merge.m)
+Optional: Matlab to merge output files (script merge.m)
 
