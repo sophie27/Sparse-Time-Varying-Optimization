@@ -4,14 +4,14 @@ Code to reproduce the experiments of the paper "Centralized and distributed onli
 Contacts: name.surname@polito.it
 
 Three experiments:
-1) Online compressed system idenfitication with paramaters varying as stepwise constant function
+1) CSI_1: Online compressed system idenfitication with paramaters varying as stepwise constant function
 
-2) Online compressed system idenfitication with paramaters varying as a smooth oscillating function
+2) CSI_2: Online compressed system idenfitication with paramaters varying as a smooth oscillating function
 
-3) Target tracking via sensor network
+3) LOCALIZATION: Target tracking via sensor network
 
 C++ code
 Requirements: g++ compiler, Eigen library http://eigen.tuxfamily.org/, Gnuplot
 
-Optional: Matlab to run the merge files
+Optional: Matlab to merge files (merge.m)
 
