@@ -2,9 +2,7 @@
 export LC_ALL="C";
 T_zero="$(($(date +%s)))"
 N_RUNS=$(seq 1 200)
-#N_RUNS=$(seq 1 200)
 N_PARALLEL_TASKS=5
-#M=$(seq 10 5 40)
 N=20
 M=12
 K=2
